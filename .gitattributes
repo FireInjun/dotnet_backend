@@ -1,0 +1,11 @@
+
+* text=auto
+*.cs  text diff=csharp
+*.csproj  text
+*.md     text
+*.sql      text
+.editorconfig  text
+.env           text
+.gitattributes text
+.gitconfig     text
+*.exe binary
