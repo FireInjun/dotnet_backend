@@ -1,0 +1,9 @@
+X:\SOURCE\dotnet_backend\Alertifi.Common\bin\Debug\netstandard2.0\Alertifi.Common.deps.json
+X:\SOURCE\dotnet_backend\Alertifi.Common\bin\Debug\netstandard2.0\Alertifi.Common.dll
+X:\SOURCE\dotnet_backend\Alertifi.Common\bin\Debug\netstandard2.0\Alertifi.Common.pdb
+X:\SOURCE\dotnet_backend\Alertifi.Common\obj\Debug\netstandard2.0\Alertifi.Common.csprojAssemblyReference.cache
+X:\SOURCE\dotnet_backend\Alertifi.Common\obj\Debug\netstandard2.0\Alertifi.Common.csproj.CoreCompileInputs.cache
+X:\SOURCE\dotnet_backend\Alertifi.Common\obj\Debug\netstandard2.0\Alertifi.Common.AssemblyInfoInputs.cache
+X:\SOURCE\dotnet_backend\Alertifi.Common\obj\Debug\netstandard2.0\Alertifi.Common.AssemblyInfo.cs
+X:\SOURCE\dotnet_backend\Alertifi.Common\obj\Debug\netstandard2.0\Alertifi.Common.dll
+X:\SOURCE\dotnet_backend\Alertifi.Common\obj\Debug\netstandard2.0\Alertifi.Common.pdb

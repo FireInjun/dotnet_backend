@@ -1,0 +1,14 @@
+X:\SOURCE\dotnet_backend\Alertifi.WebAPI\bin\Debug\netcoreapp2.2\Alertifi.WebAPI.deps.json
+X:\SOURCE\dotnet_backend\Alertifi.WebAPI\bin\Debug\netcoreapp2.2\Alertifi.WebAPI.runtimeconfig.json
+X:\SOURCE\dotnet_backend\Alertifi.WebAPI\bin\Debug\netcoreapp2.2\Alertifi.WebAPI.runtimeconfig.dev.json
+X:\SOURCE\dotnet_backend\Alertifi.WebAPI\bin\Debug\netcoreapp2.2\Alertifi.WebAPI.dll
+X:\SOURCE\dotnet_backend\Alertifi.WebAPI\bin\Debug\netcoreapp2.2\Alertifi.WebAPI.pdb
+X:\SOURCE\dotnet_backend\Alertifi.WebAPI\obj\Debug\netcoreapp2.2\Alertifi.WebAPI.csprojAssemblyReference.cache
+X:\SOURCE\dotnet_backend\Alertifi.WebAPI\obj\Debug\netcoreapp2.2\Alertifi.WebAPI.csproj.CoreCompileInputs.cache
+X:\SOURCE\dotnet_backend\Alertifi.WebAPI\obj\Debug\netcoreapp2.2\Alertifi.WebAPI.RazorAssemblyInfo.cache
+X:\SOURCE\dotnet_backend\Alertifi.WebAPI\obj\Debug\netcoreapp2.2\Alertifi.WebAPI.RazorAssemblyInfo.cs
+X:\SOURCE\dotnet_backend\Alertifi.WebAPI\obj\Debug\netcoreapp2.2\Alertifi.WebAPI.AssemblyInfoInputs.cache
+X:\SOURCE\dotnet_backend\Alertifi.WebAPI\obj\Debug\netcoreapp2.2\Alertifi.WebAPI.AssemblyInfo.cs
+X:\SOURCE\dotnet_backend\Alertifi.WebAPI\obj\Debug\netcoreapp2.2\Alertifi.WebAPI.RazorTargetAssemblyInfo.cache
+X:\SOURCE\dotnet_backend\Alertifi.WebAPI\obj\Debug\netcoreapp2.2\Alertifi.WebAPI.dll
+X:\SOURCE\dotnet_backend\Alertifi.WebAPI\obj\Debug\netcoreapp2.2\Alertifi.WebAPI.pdb

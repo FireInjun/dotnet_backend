@@ -1,0 +1,9 @@
+X:\SOURCE\dotnet_backend\Alertifi.Scraper\bin\Debug\netstandard2.0\Alertifi.Scraper.deps.json
+X:\SOURCE\dotnet_backend\Alertifi.Scraper\bin\Debug\netstandard2.0\Alertifi.Scraper.dll
+X:\SOURCE\dotnet_backend\Alertifi.Scraper\bin\Debug\netstandard2.0\Alertifi.Scraper.pdb
+X:\SOURCE\dotnet_backend\Alertifi.Scraper\obj\Debug\netstandard2.0\Alertifi.Scraper.csprojAssemblyReference.cache
+X:\SOURCE\dotnet_backend\Alertifi.Scraper\obj\Debug\netstandard2.0\Alertifi.Scraper.csproj.CoreCompileInputs.cache
+X:\SOURCE\dotnet_backend\Alertifi.Scraper\obj\Debug\netstandard2.0\Alertifi.Scraper.AssemblyInfoInputs.cache
+X:\SOURCE\dotnet_backend\Alertifi.Scraper\obj\Debug\netstandard2.0\Alertifi.Scraper.AssemblyInfo.cs
+X:\SOURCE\dotnet_backend\Alertifi.Scraper\obj\Debug\netstandard2.0\Alertifi.Scraper.dll
+X:\SOURCE\dotnet_backend\Alertifi.Scraper\obj\Debug\netstandard2.0\Alertifi.Scraper.pdb
